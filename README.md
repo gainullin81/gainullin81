@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Developer | JavaScript | React | Java**  
 
-I'm Aleksander Gainullin, a passionate **web and mobile developer** with a background in **system design, JavaScript, and React development**. I love solving complex problems and building efficient, scalable applications.  
+I'm Aleksandr Gainullin, a passionate **web and mobile developer** with a background in **system design, JavaScript, and React development**. I love solving complex problems and building efficient, scalable applications.  
 
 ---
 
